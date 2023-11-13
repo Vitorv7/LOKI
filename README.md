@@ -1,4 +1,4 @@
-# PROJETO: LOKI PART-2
+# PROJETO: LOKI PART 2
 
 ![](./assets/img/Loki.png)
 

@@ -10,7 +10,7 @@
 
 [**BLIBIOTECA DO SCROLLREAVEAL ULTILIZANDO JS** ](https://scrollrevealjs.org/guide/installation.html)
 
-_**O Projeto está acessível para mobile**_
+_**O Projeto está acessível para mobile📱**_
 
 ## LINK PARA ACESSO DO SITE
 
